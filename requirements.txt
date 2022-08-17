@@ -1,0 +1,2 @@
+GitPython==3.1.18
+PyYAML==5.4.1
